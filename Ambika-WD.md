@@ -10,6 +10,6 @@ Hi there!
     
     
  2 BackEnd Language 
-    *Java
-    *C
-    *c++
+    * Java
+    * C
+    * c++
