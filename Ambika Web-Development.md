@@ -33,6 +33,6 @@ Also, a block element occupies 100% of the available width and it is rendered wi
 * for eg. 1. Use [text](url) for hyperlinks
             [Devincept Website](https://devincept.tech/)
          
-:star:** div and Span tag **
+:star:**Div and Span tag**
   
   **div** tag should be used for grouping a set of related elements to create a relationship between them on a webpage, the **span** tag should be used to change the style of something on a webpage without affecting the context it is within. 
