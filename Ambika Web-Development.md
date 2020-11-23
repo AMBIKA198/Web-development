@@ -30,7 +30,7 @@ Also, a block element occupies 100% of the available width and it is rendered wi
 * Attributes provide additional information about elements.
 * Attributes are always specified in the start tag.
 * Attributes usually come in name/value pairs like: name="value".
-* for eg.*  Use [text](url) for hyperlinks and, ![text](path/url) for image.
-[Devincept Website](https://devincept.tech/)
-
+* for eg. 1. Use [text](url) for hyperlinks
+            [Devincept Website](https://devincept.tech/)
+          2.The <a> tag defines a hyperlink. The href attribute specifies the URL 
 
