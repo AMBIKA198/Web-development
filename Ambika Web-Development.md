@@ -1,4 +1,4 @@
-**HTML Tags and Elements**
+:star:**HTML Tags and Elements**
   
   
 **HTML Tags**
@@ -22,3 +22,4 @@
 Elements can be placed in two distinct groups: block level and inline level elements. The former make up the document's structure, while the latter dress up the contents of a block.
 
 Also, a block element occupies 100% of the available width and it is rendered with a line break before and after. Whereas, an inline element will take up only as much space as it needs.
+:star:**Html Attributes**
