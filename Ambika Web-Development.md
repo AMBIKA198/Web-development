@@ -36,7 +36,11 @@ Also, a block element occupies 100% of the available width and it is rendered wi
 :star:**Div and Span tag**
   
   **div** tag should be used for grouping a set of related elements to create a relationship between them on a webpage, the **span** tag should be used to change the style of something on a webpage without affecting the context it is within. 
+  
+  
+  
   **Grouping Content**
+  
   Grouping of content is one of those things that happens behind the scenes at a website. You see a webpage, but you do not know how the author of that webpage set up relationships between the various items on the page. Doing so is important for styling as well as for a logical organization.
   * On this webpage, we have five containers that group together a set of elements:
     1. **Header**
