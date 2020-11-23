@@ -25,6 +25,7 @@ Also, a block element occupies 100% of the available width and it is rendered wi
 
 
 :star:**Html Attributes**
+
 1.All HTML elements can have attributes.
 2.Attributes provide additional information about elements.
 3.Attributes are always specified in the start tag.
